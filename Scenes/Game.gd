@@ -5,13 +5,13 @@ func _ready():
 
 # Buttons
 func SubtractPressed():
-	get_node("/root/SaveSystem").DisplayValue -= 1
+	SaveSystem.DisplayValue -= 1
 
 func AddPressed():
-	get_node("/root/SaveSystem").DisplayValue += 1
+	SaveSystem.DisplayValue += 1
 
 func SavePressed():
-	pass
+	SaveSystem.saveValue()
 
 func LoadPressed():
-	pass
+	SaveSystem.loadValue()

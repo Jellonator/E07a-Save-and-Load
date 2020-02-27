@@ -1,5 +1,9 @@
 # E07a-Save-and-Load    
 
+I'm not really sure that to put here to qualify for the "Update the README.md" portion of the assignment, so I'm just gonna write this. Also, I totally forgot this assignment existed until the morning after it was due so sorry for submitting this a day late.
+
+---
+
 This is an opportunity for you to practice the simplest form of saving state in Godot, saving to a config file.
 
 As always, Fork and Clone this repository.
